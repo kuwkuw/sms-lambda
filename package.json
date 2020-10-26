@@ -1,0 +1,14 @@
+{
+  "name": "mydevops",
+  "version": "1.0.0",
+  "description": "CDP project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oleh Kushch",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.775.0"
+  }
+}
